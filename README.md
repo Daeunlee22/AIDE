@@ -5,3 +5,4 @@ I'm student
 Thank you  
 
 Today is Wednesday  
+I'm happy  
